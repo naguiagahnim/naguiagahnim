@@ -2,7 +2,7 @@
 ![Alt Text](https://media.tenor.com/KtZISKiNSo8AAAAM/mustache-guy.gif)
 ![Alt Text](https://media.tenor.com/KtZISKiNSo8AAAAM/mustache-guy.gif)
 ![Alt Text](https://media.tenor.com/KtZISKiNSo8AAAAM/mustache-guy.gif)
-![Alt Text](https://media1.tenor.com/m/4LJrK2Ts7r0AAAAd/weird-guy-mustache.gif)
+![Alt Text](https://media.tenor.com/m/4LJrK2Ts7r0AAAAd/weird-guy-mustache.gif)
 ![Alt Text](https://media.tenor.com/KtZISKiNSo8AAAAM/mustache-guy.gif)
 ![Alt Text](https://media.tenor.com/KtZISKiNSo8AAAAM/mustache-guy.gif)
 ![Alt Text](https://media.tenor.com/KtZISKiNSo8AAAAM/mustache-guy.gif)
