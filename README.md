@@ -1,4 +1,4 @@
-![Alt Text](https://media.tenor.com/KtZISKiNSo8AAAAM/mustache-guy.gif)https://github.com/naguiagahnim/naguiagahnim/blob/main/README.md
+![Alt Text](https://media.tenor.com/KtZISKiNSo8AAAAM/mustache-guy.gif)
 ![Alt Text](https://media.tenor.com/KtZISKiNSo8AAAAM/mustache-guy.gif)
 ![Alt Text](https://media.tenor.com/KtZISKiNSo8AAAAM/mustache-guy.gif)
 ![Alt Text](https://media.tenor.com/KtZISKiNSo8AAAAM/mustache-guy.gif)
