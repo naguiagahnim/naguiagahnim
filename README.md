@@ -10,7 +10,7 @@
   </ul>
 </p>
 
-<h4 align="left">Mini-games for two</h4>
+<h4 align="left"><a href="https://github.com/naguiagahnim/Mini-jeux-deux">Mini-games for two</a></h4>
 <p align="left">
   <ul>
     <li><b>Description : </b>The aim of the project is to develop a fully functional scrabble game by implementing a user interface, a machine part and functional tests while collaborating as a team.</li>
