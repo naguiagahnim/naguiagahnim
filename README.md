@@ -10,6 +10,9 @@
   </ul>
 </p>
 
+<h3 align="left">Music</h3>
+<p align="left">I studied at the conservatory for 10 years, where I played the <a href="https://en.wikipedia.org/wiki/Viol">viola da gamba</a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/nagui_agahnim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nagui_agahnim" height="30" width="40" /></a>
