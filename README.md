@@ -34,7 +34,6 @@
     <li>Voltaire Certification, Spelling - 699/1000 (Verification code: 63XVT73) in 2022.</li>
     <li>TOEIC, Listening and Reading test - 960/990 in 2022.</li>
     <li>Certificat d'Etudes Musicales (CEM) in 2022.</li>
-    <li>Brevet des Collèges summa cum laude in 2020.</li>
   </ul>
 </p>
 
