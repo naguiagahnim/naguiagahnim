@@ -1,6 +1,14 @@
 <h1 align="center">Hey, I'm Agahnim</h1>
 <h3 align="center">Computer Science student, Music Producer, Game developer</h3>
 
+<h3 align="left">Projects</h3>
+<h4 align="left">Scrabble game</h4>
+<p align="left">
+  <ul>
+    <li><b>Description : </b>The aim of the project is to develop a fully functional scrabble game using the Java and JavaFX programming languages to implement a user interface. Github and Git are used to collaborate within the team.</li>
+  </ul>
+</p>
+
 <h3 align="left">Experience</h3>
 <p align="left">
   <ul>
