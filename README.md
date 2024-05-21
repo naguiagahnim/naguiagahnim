@@ -1,13 +1,7 @@
 <h1 align="center">Hey, I'm Agahnim</h1>
 <h3 align="center">Computer Science student, Music Producer, Game developer</h3>
 
-<style>
-  h3 {
-    text-decoration : underline;
-  }
-</style>
-
-<h3 align="left">Projects</h3>
+<h3 align="left", text-decoration : underline>Projects</h3>
 <h4 align="left"><a href="https://github.com/naguiagahnim/scrabble">Scrabble game</a></h4>
 <p align="left">
   <ul>
