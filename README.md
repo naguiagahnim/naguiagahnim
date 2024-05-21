@@ -18,7 +18,7 @@
 <a href="https://twitter.com/nagui_agahnim" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="nagui_agahnim" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/gabriel-guy-soulard-71ba28179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-guy-soulard-71ba28179" height="30" width="40" /></a>
 <a href="https://instagram.com/agahnim_music" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="agahnim_music" height="30" width="40" /></a>
-<a href="https://www.svgrepo.com/show/51739/spotify.svg" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Spotify_logo_without_text.svg/252px-Spotify_logo_without_text.svg.png" alt="Agahnim" height="30" width="40" /></a>
+<a href="https://open.spotify.com/intl-fr/artist/4BPUhsH6krKkCNFrdMZnZF" target="blank"><img align="center" src="https://www.svgrepo.com/show/51739/spotify.svg" alt="Agahnim" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
