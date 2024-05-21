@@ -1,6 +1,14 @@
 <h1 align="center">Hey, I'm Agahnim</h1>
 <h3 align="center">Computer Science student, Music Producer, Game developer</h3>
 
+<h3 align="left">Experience</h3>
+<p align="left">
+  <ul>
+    <li>Studio recording, "La mix room", Early music - Recording commissioned by the city of Angoulême in June 2023.</li>
+    <li>Headbang Club, Gond Pontouvre - Third year internship, Independent video game studio in December 2019.</li>
+  </ul>
+</p>
+
 <h3 align="left">Video Game Development</h3>
 <p align="left">I've been learning programming and video game development on my own since I was very young. I have experience with several game engines, including:
   <ul>
