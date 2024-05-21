@@ -2,12 +2,13 @@
 <h3 align="center">Computer Science student, Music Producer, Game developer</h3>
 
 <h3 align="left">Video Game Development</h3>
-<p align="left">
-  - I've been learning programming and video game development on my own since I was very young.
-- I have experience with several game engines, including:
-  - **Construct 2**
-  - **Unity**
-  - **Unreal Engine**</p>
+<p align="left">I've been learning programming and video game development on my own since I was very young. I have experience with several game engines, including:
+  <ul>
+    <li>Unreal Engine</li>
+    <li>Unity</li>
+    <li>Construct 2</li>
+  </ul>
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
