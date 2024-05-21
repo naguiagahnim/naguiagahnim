@@ -11,7 +11,7 @@
 </p>
 
 <h3 align="left">Music</h3>
-<p align="left">I studied at the conservatory for 10 years, where I played the <a href="https://en.wikipedia.org/wiki/Viol">viola da gamba</a>
+<p align="left">I studied at the conservatory for 10 years, where I played the <a href="https://en.wikipedia.org/wiki/Viol">viola da gamba.</a>At the end of my studies, I obtained my CEM (Certificat d'Etudes Musicales) with honors. <br>In parallel, I've been creating computer assisted music for 4 years, exploring various genres and styles like synthwave, darkwave, breakcore and so on to ultimately find my own.</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
