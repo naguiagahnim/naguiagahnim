@@ -1,7 +1,7 @@
 <h1 align="center">Hey, I'm Agahnim</h1>
 <h3 align="center">Computer Science student, Music Producer, Game developer</h3>
 
-<h3 align="left">Video Game Development</h3>
+<h3 align="left"><u></u>Video Game Development</u></h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
