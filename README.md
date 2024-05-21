@@ -1,8 +1,6 @@
 <h1 align="center">Hey, I'm Agahnim</h1>
 <h3 align="center">A first year student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naguiagahnim" alt="naguiagahnim" /></a> </p>
-
 - 🔭 I’m currently working on **aa**
 
 <h3 align="left">Connect with me:</h3>
@@ -17,7 +15,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=naguiagahnim&show_icons=true&theme=dark&locale=en&layout=compact" alt="naguiagahnim" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naguiagahnim&show_icons=true&locale=en" alt="naguiagahnim" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=naguiagahnim&theme=dark" alt="naguiagahnim" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=naguiagahnim&show_icons=true&theme=dark&locale=en" alt="naguiagahnim" /></p>
 
