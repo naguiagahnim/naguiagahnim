@@ -47,7 +47,7 @@
 </p>
 
 <h3 align="left">Music</h3>
-<p align="left">I studied at the conservatory for 10 years, where I played the <a href="https://en.wikipedia.org/wiki/Viol">viola da gamba</a>. At the end of my studies, I obtained my CEM (Certificat d'Etudes Musicales) with honors. <br>In parallel, I've been creating computer assisted music for 4 years, exploring various genres and styles like synthwave, darkwave, breakcore and so on to ultimately find my own.<br>My work can be found on various streaming services, like <a href="https://open.spotify.com/intl-fr/artist/4BPUhsH6krKkCNFrdMZnZF">Spotify</a>.</p>
+<p align="left">I studied at the conservatory for 10 years, where I played the <a href="https://en.wikipedia.org/wiki/Viol" target="blank">viola da gamba</a>. At the end of my studies, I obtained my CEM (Certificat d'Etudes Musicales) with honors. <br>In parallel, I've been creating computer assisted music for 4 years, exploring various genres and styles like synthwave, darkwave, breakcore and so on to ultimately find my own.<br>My work can be found on various streaming services, like <a href="https://open.spotify.com/intl-fr/artist/4BPUhsH6krKkCNFrdMZnZF" target="blank">Spotify</a>.</p>
 
 <h3 align="left">Bodybuilding</h3>
 <p align="left"> I've been weight training for 2 years. Discipline and determination are key values that I apply in all aspects of my life.</p>
