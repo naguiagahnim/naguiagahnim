@@ -23,6 +23,7 @@
   <ul>
     <li>Studio recording, "La mix room", Early music - Recording commissioned by the city of Angoulême in June 2023.</li>
     <li>Headbang Club, Gond Pontouvre - Third year internship, Independent video game studio in December 2019.</li>
+    <li>DDFIP, Limoges - Technical officer (temporary worker) from August 5 to September 2, 2024.</li>
   </ul>
 </p>
 
