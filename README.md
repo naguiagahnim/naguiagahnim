@@ -18,41 +18,6 @@
   </ul>
 </p>
 
-<h3 align="left">Experience</h3>
-<p align="left">
-  <ul>
-    <li>Studio recording, "La mix room", Early music - Recording commissioned by the city of Angoulême in June 2023.</li>
-    <li>Headbang Club, Gond Pontouvre - Third year internship, Independent video game studio in December 2019.</li>
-    <li>DDFIP, Limoges - Technical officer (temporary worker) from August 5 to September 2, 2024.</li>
-  </ul>
-</p>
-
-
-<h3 align="left">Diplomas and Certifications</h3>
-<p align="left">
-  <ul>
-    <li>Baccalauréat Général - 15.9 grade average with honors in 2023.</li>
-    <li>Voltaire Certification, Spelling - 699/1000 (Verification code: 63XVT73) in 2022.</li>
-    <li>TOEIC, Listening and Reading test - 960/990 in 2022.</li>
-    <li>Certificat d'Etudes Musicales (CEM) in 2022.</li>
-  </ul>
-</p>
-
-<h3 align="left">Video Game Development</h3>
-<p align="left">I've been learning programming and video game development on my own since I was very young. I have experience with several game engines, including:
-  <ul>
-    <li>Unreal Engine</li>
-    <li>Unity</li>
-    <li>Construct 2</li>
-  </ul>
-</p>
-
-<h3 align="left">Music</h3>
-<p align="left">I studied at the conservatory for 10 years, where I played the <a href="https://en.wikipedia.org/wiki/Viol" target="blank">viola da gamba</a>. At the end of my studies, I obtained my CEM (Certificat d'Etudes Musicales) with honors. <br>In parallel, I've been creating computer assisted music for 4 years, exploring various genres and styles like synthwave, darkwave, breakcore and so on to ultimately find my own.<br>My work can be found on various streaming services, like <a href="https://open.spotify.com/intl-fr/artist/4BPUhsH6krKkCNFrdMZnZF" target="blank">Spotify</a>.</p>
-
-<h3 align="left">Bodybuilding / Calisthenics</h3>
-<p align="left"> I've been training for 2 years. Discipline and determination are key values that I apply in all aspects of my life.</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel-guy-soulard-71ba28179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-guy-soulard-71ba28179" height="30" width="40" /></a>
