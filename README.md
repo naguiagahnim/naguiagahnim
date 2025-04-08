@@ -1,23 +1,6 @@
 <h1 align="center">Hey, I'm Agahnim</h1>
 <h3 align="center">Computer Science student, Music Producer, Game developer</h3>
 
-<h3 align="left">Projects</h3>
-<h4 align="left"><a href="https://github.com/naguiagahnim/scrabble">Scrabble game</a></h4>
-<p align="left">
-  <ul>
-   <li><b>Description : </b>The aim of the project is to develop a fully functional scrabble game by implementing a user interface, a machine part and functional tests while collaborating as a team.</li>
-    <li><b>Technologies used : </b>Java, JavaFX, JUnit.</li>
-  </ul>
-</p>
-
-<h4 align="left"><a href="https://github.com/naguiagahnim/Mini-jeux-deux">Mini-jeux à deux</a></h4>
-<p align="left">
-  <ul>
-    <li><b>Description : </b>The aim of this project was to implement several playable mini-games in the Python console. These mini-games were the match game, the tic-tac-toe game and the riddle game. We also implemented an artificial player system, where a human player could play against the computer, or have two computers play against       each other. We also had to work as a team on this project.</li>
-    <li><b>Technologies used : </b>Python, Git, Github.</li>
-  </ul>
-</p>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/gabriel-guy-soulard-71ba28179" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="gabriel-guy-soulard-71ba28179" height="30" width="40" /></a>
