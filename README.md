@@ -2,7 +2,10 @@
 
 <br>
 <p align="center">
-🐱‍💻Hello! I'm Agahnim, and I like to create things.🐱‍💻
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHphOGFsa2ZreWR5ZHJicmZrbTBjNHl2cnFzMWs4ZXRzenRkNmFybSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="4%">
+Hello! I'm Agahnim, and I like to create things.
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHphOGFsa2ZreWR5ZHJicmZrbTBjNHl2cnFzMWs4ZXRzenRkNmFybSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/WUlplcMpOCEmTGBtBW/giphy.gif" width="4%">
+
 </p>
 <h1> </h1>
 <br>
